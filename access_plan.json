@@ -3,7 +3,8 @@
     "currency": "USDC",
     "repository": "https://github.com/GravityHedge-com/StableStation",
     "chainId": 42161,
-    "feeAddress": "0xYourFeeAddressHere"
+    "feeAddress": "0xYourFeeAddressHere",
+    "shareRatio": 0.9
   },
   "plans": [
     {
