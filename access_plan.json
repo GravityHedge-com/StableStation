@@ -1,0 +1,52 @@
+{
+  "accessPlans": [
+    {
+      "tier": 0,
+      "spSeats": 2,
+      "portfolioSeats": 10,
+      "capitalLimit": 50000,
+      "billingCycle": "Daily",
+      "price": 0
+    },
+    {
+      "tier": 1,
+      "spSeats": 2,
+      "portfolioSeats": 10,
+      "capitalLimit": 100000,
+      "billingCycle": "Daily",
+      "price": 5.0
+    },
+    {
+      "tier": 2,
+      "spSeats": 4,
+      "portfolioSeats": 20,
+      "capitalLimit": 200000,
+      "billingCycle": "Daily",
+      "price": 10.0
+    },
+    {
+      "tier": 3,
+      "spSeats": 6,
+      "portfolioSeats": 30,
+      "capitalLimit": 300000,
+      "billingCycle": "Daily",
+      "price": 15.0
+    },
+    {
+      "tier": 4,
+      "spSeats": 12,
+      "portfolioSeats": 60,
+      "capitalLimit": 600000,
+      "billingCycle": "Daily",
+      "price": 30.0
+    },
+    {
+      "tier": 5,
+      "spSeats": 20,
+      "portfolioSeats": 100,
+      "capitalLimit": 1000000,
+      "billingCycle": "Daily",
+      "price": 50.0
+    }
+  ]
+}
