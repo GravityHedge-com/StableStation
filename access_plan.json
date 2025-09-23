@@ -1,5 +1,11 @@
 {
-  "accessPlans": [
+  "config": {
+    "currency": "USDC",
+    "repository": "https://github.com/GravityHedge-com/StableStation",
+    "chainId": 42161,
+    "feeAddress": "0xYourFeeAddressHere"
+  },
+  "plans": [
     {
       "tier": 0,
       "spSeats": 2,
