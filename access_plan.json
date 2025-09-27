@@ -13,43 +13,43 @@
       "portfolioSeats": 10,
       "capitalLimit": 5000,
       "billingCycle": "Daily",
-      "price": 0,
+      "price": 0.0,
       "expiration": "Unlimited"
     },
     {
       "tier": 1,
       "UserSeats": 4,
       "portfolioSeats": 10,
-      "capitalLimit": 50000,
+      "capitalLimit": 40000,
       "billingCycle": "Daily",
-      "price": 2.5,
+      "price": 2.0,
       "expiration": "--"
     },
     {
       "tier": 2,
       "UserSeats": 4,
       "portfolioSeats": 20,
-      "capitalLimit": 200000,
+      "capitalLimit": 100000,
       "billingCycle": "Daily",
-      "price": 10.0,
+      "price": 5.0,
       "expiration": "--"
     },
     {
       "tier": 3,
       "UserSeats": 6,
       "portfolioSeats": 30,
-      "capitalLimit": 300000,
+      "capitalLimit": 200000,
       "billingCycle": "Daily",
-      "price": 15.0,
+      "price": 10.0,
       "expiration": "--"
     },
     {
       "tier": 4,
       "UserSeats": 12,
       "portfolioSeats": 60,
-      "capitalLimit": 600000,
+      "capitalLimit": 500000,
       "billingCycle": "Daily",
-      "price": 30.0,
+      "price": 25.0,
       "expiration": "--"
     },
     {
