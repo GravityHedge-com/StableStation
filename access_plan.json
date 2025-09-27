@@ -9,20 +9,20 @@
   "plans": [
     {
       "tier": 0,
-      "UserSeats": 2,
+      "UserSeats": 4,
       "portfolioSeats": 10,
-      "capitalLimit": 50000,
+      "capitalLimit": 5000,
       "billingCycle": "Daily",
       "price": 0,
       "expiration": "Unlimited"
     },
     {
       "tier": 1,
-      "UserSeats": 2,
+      "UserSeats": 4,
       "portfolioSeats": 10,
-      "capitalLimit": 100000,
+      "capitalLimit": 50000,
       "billingCycle": "Daily",
-      "price": 5.0,
+      "price": 2.5,
       "expiration": "--"
     },
     {
