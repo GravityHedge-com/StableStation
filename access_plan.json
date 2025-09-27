@@ -9,7 +9,7 @@
   "plans": [
     {
       "tier": 0,
-      "spSeats": 2,
+      "UserSeats": 2,
       "portfolioSeats": 10,
       "capitalLimit": 50000,
       "billingCycle": "Daily",
@@ -18,7 +18,7 @@
     },
     {
       "tier": 1,
-      "spSeats": 2,
+      "UserSeats": 2,
       "portfolioSeats": 10,
       "capitalLimit": 100000,
       "billingCycle": "Daily",
@@ -27,7 +27,7 @@
     },
     {
       "tier": 2,
-      "spSeats": 4,
+      "UserSeats": 4,
       "portfolioSeats": 20,
       "capitalLimit": 200000,
       "billingCycle": "Daily",
@@ -36,7 +36,7 @@
     },
     {
       "tier": 3,
-      "spSeats": 6,
+      "UserSeats": 6,
       "portfolioSeats": 30,
       "capitalLimit": 300000,
       "billingCycle": "Daily",
@@ -45,7 +45,7 @@
     },
     {
       "tier": 4,
-      "spSeats": 12,
+      "UserSeats": 12,
       "portfolioSeats": 60,
       "capitalLimit": 600000,
       "billingCycle": "Daily",
@@ -54,7 +54,7 @@
     },
     {
       "tier": 5,
-      "spSeats": 20,
+      "UserSeats": 20,
       "portfolioSeats": 100,
       "capitalLimit": 1000000,
       "billingCycle": "Daily",
